@@ -1,4 +1,4 @@
-# 
+# smart Splashtop for macOS Addon | cross-platform-support + low-latency offers the most advanced Splashtop for macOS addon, with cross-platform-support and low-latency. Ideal for
 
 
 
